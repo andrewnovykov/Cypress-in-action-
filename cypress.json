@@ -1,1 +1,6 @@
-{}
+{
+    "baseUrl":"https://dashboard-on-angular-for-test.herokuapp.com/",
+    "ignoreTestFiles": "**/examples/*",
+    "viewportHeight":768,
+    "viewportWidth": 1024
+}
